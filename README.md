@@ -92,9 +92,4 @@
 <a href="https://github.com/Jorgeplr"><img src="https://img.shields.io/badge/-Jorgeplr-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;Así se mueven mis commits...
 
-<div align="center">
-  <a href="https://github.com/Jorgeplr/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
